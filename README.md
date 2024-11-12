@@ -1,4 +1,4 @@
-# Pruebas móviles para Urban Lunch
+# Pruebas móviles para Urban Lunch :iphone:
 El equipo desarrolló la primera versión para Android de la aplicación Urban.Lunch. Esta permite pedir comidas de diferentes restaurantes de la ciudad y luego recibirlas en uno de los puntos de recogida. Se realizaron pruebas funcionales y de diseño para verificar que se cumplan los requisitos y garantizar que el usuario tendrá una buena experiencia con la aplicación.
 ![Urban Lunch](https://github.com/Andrea-Pozas/Pruebas-m-viles-para-Urban-Lunch/blob/main/images/Urban%20Lunch.png) ![Urban Menú](https://github.com/Andrea-Pozas/Pruebas-m-viles-para-Urban-Lunch/blob/main/images/Men%C3%BA.png)
 # Herramientas 
