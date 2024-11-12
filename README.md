@@ -11,7 +11,7 @@ Urban Luch fue probado desde los siguientes dispositivos:
 - Un dispositivo real: Poco X3 Pro en Android 11 con una resolución de pantalla de 1080 x 2400 y una diagonal de 6.67
 - Un emulador de Honor 8 en Android 9.0 Pie con una resolución de pantalla de 1080x1920 y una diagonal de 5.5
 
-__Si deseas ver la lista de comprobación da clic aquí__ 
+:arrow_right:__Si deseas ver la lista de comprobación da clic aquí__ [Pruebas mobile Urban Lunch](https://docs.google.com/spreadsheets/d/1u3AQntena8HXTIBit_SeZWKcM4wULSjM/edit?usp=sharing&ouid=103915261935983096380&rtpof=true&sd=true)
 
 # Resultados
 Se realizaron un total de 76 pruebas para garantizar que el proceso el usuario puede realizar un pedido sin inconvenientes Se detectaron 9 errores, de los cuales 2 son de prioridad alta:
